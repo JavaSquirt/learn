@@ -6,3 +6,7 @@
     $current_user = $username;
     echo $current_user;
 ?>
+
+<?php
+if ($y-- == 0) echo $y;
+?>
